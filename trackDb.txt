@@ -1,5 +1,5 @@
 track Redfly_bed
-big DataUrl https://raw.githubusercontent.com/cainbn97/Notch_mapping/main/all_crms.bed
+big DataUrl https://raw.githubusercontent.com/cainbn97/Notch_mapping/main/all_crms.bb
 shortLabel Redfly_bed
 longLabel Redfly_bed
 type Bed
