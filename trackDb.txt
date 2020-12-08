@@ -5,3 +5,11 @@ longLabel Redfly_bed
 type bigBed
 nvisibility squish
 ncolor 0,0,255
+
+track Espl
+bigDataUrl https://raw.githubusercontent.com/cainbn97/Notch_mapping/main/esp1.bb
+shortLabel Esp1
+longLabel Esp1
+type bigBed
+nvisibility squish
+ncolor 0,0,255
