@@ -1,6 +1,6 @@
-hub Notch_mapping
-shortLabel Notch mapping
-longLabel Notch mapping
+hub SPS Sites
+shortLabel SPS Sites
+longLabel SPS Sites
 genomesFile genomes.txt
 email 
 descriptionUrl
