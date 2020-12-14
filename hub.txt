@@ -1,4 +1,4 @@
-hub SPS_sites_in_Espl
+hub SPS-sites-in-E-spl-
 shortLabel SPS_sites_in_Espl
 longLabel SPS_sites_in_Espl
 genomesFile genomes.txt
