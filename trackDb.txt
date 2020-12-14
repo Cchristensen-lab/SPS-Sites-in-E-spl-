@@ -7,7 +7,7 @@ nvisibility squish
 ncolor 0,0,255
 
 track Espl
-bigDataUrl https://github.com/Cchristensen-lab/SPS-Sites-in-E-spl-/blob/main/E_spl.bb
+bigDataUrl https://raw.githubusercontent.com/Cchristensen-lab/SPS_Sites_in_Espl/main/E_spl.bb
 shortLabel Espl
 longLabel Espl
 type bigBed
@@ -15,7 +15,7 @@ nvisibility squish
 ncolor 0,0,255
 
 track SPSsitesofInterest
-bigDataUrl https://github.com/Cchristensen-lab/SPS-Sites-in-E-spl-/blob/main/SPS_sites.bb
+bigDataUrl https://raw.githubusercontent.com/Cchristensen-lab/SPS_Sites_in_Espl/main/SPS_sites.bb
 shortLabel SPSsitesofInterest
 longLabel SPSsitesofInterest
 type bigBed
