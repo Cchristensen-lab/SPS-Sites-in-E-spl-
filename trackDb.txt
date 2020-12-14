@@ -14,10 +14,10 @@ type bigBed
 nvisibility squish
 ncolor 0,0,255
 
-track SPSsites
+track SPSsitesofInterest
 bigDataUrl https://github.com/Cchristensen-lab/SPS-Sites-in-E-spl-/blob/main/SPS_sites.bb
-shortLabel SPSsites
-longLabel SPSsites
+shortLabel SPSsitesofInterest
+longLabel SPSsitesofInterest
 type bigBed
 nvisibility squish
 ncolor 0,0,255
