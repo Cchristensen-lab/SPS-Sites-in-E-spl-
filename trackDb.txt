@@ -7,9 +7,17 @@ nvisibility squish
 ncolor 0,0,255
 
 track Espl
-bigDataUrl https://raw.githubusercontent.com/cainbn97/Notch_mapping/main/esp1.bb
-shortLabel Esp1
-longLabel Esp1
+bigDataUrl https://github.com/Cchristensen-lab/SPS-Sites-in-E-spl-/blob/main/E_spl.bb
+shortLabel Espl
+longLabel Espl
+type bigBed
+nvisibility squish
+ncolor 0,0,255
+
+track SPSsites
+bigDataUrl https://github.com/Cchristensen-lab/SPS-Sites-in-E-spl-/blob/main/SPS_sites.bb
+shortLabel SPSsites
+longLabel SPSsites
 type bigBed
 nvisibility squish
 ncolor 0,0,255
