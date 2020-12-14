@@ -1,6 +1,6 @@
-hub SPS Sites in Espl
-shortLabel SPS Sites in Espl
-longLabel SPS Sites in Espl
+hub SPS_sites_in_Espl
+shortLabel SPS_sites_in_Espl
+longLabel SPS_sites_in_Espl
 genomesFile genomes.txt
 email 
 descriptionUrl
