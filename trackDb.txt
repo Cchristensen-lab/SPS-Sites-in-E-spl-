@@ -21,3 +21,4 @@ longLabel SPSsitesofInterest
 type bigBed
 nvisibility squish
 ncolor 0,0,255
+
